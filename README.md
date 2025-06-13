@@ -33,3 +33,6 @@ Install my-project with pip
 | Communication    | Serial (USB), HTTP (Wi-Fi)               |
 
 
+## Full Working of the project
+https://www.youtube.com/watch?v=EJZgmTr9ybU
+
